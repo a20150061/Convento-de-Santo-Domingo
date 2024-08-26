@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #e6d16b;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.portada img{
+  height: 400px;
+}
+.titulo p{
+  font-size: 60px;
+  color: #2b4c20 ;
+  font-family: 'Forte';
+}
+.enlace a{
+  font-size: 30px;
+  color: #3c6f9f ;
+}
+.titulo2 p{
+  font-size: 50px;
+  color: #2b4c20 ;
+  font-family: 'Forte';
+}
+.subtitulos p{
+    font-size: 30px;
+    color: #062246 ;
+    font-family: 'Buxton Sketch';
+}
+
+.resumen p{
+  font-size: 30px;
+  color: #062246 ;
+  font-family: 'Buxton Sketch';
+  margin: 50px;
+}
+
+.resumen img{
+  height: 300px
+}
